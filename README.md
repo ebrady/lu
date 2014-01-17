@@ -1,4 +1,4 @@
 lu
 ==
 
-Multi pkg/comp workspace lineup mgmt sys
+Multi-SCM pkg/comp lineup and workspace manager
